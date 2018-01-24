@@ -1,0 +1,15 @@
+{
+    "title": "La otra vez",
+    "baseURL": "https:\/\/widgets.laotravez.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758799",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "laotravez.com"
+    }
+}
